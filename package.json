@@ -22,8 +22,7 @@
     "index.d.ts"
   ],
   "scripts": {
-    "prepack": "tsc --noEmit false",
-    "test": "node --test"
+    "test": "tsc"
   },
   "devDependencies": {
     "prettier": "^3.0.0",
